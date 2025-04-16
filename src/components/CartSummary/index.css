@@ -1,0 +1,24 @@
+.cart-summary-list {
+  margin-left: auto;
+  width: 300px;
+}
+.price-h1 {
+  color: #657b93;
+  font-size: 30px;
+}
+.count-p {
+  color: #999b9e;
+}
+.price-span {
+  color: #171f46;
+}
+.checkout-btn {
+  background-color: #0b69ff;
+  width: 280px;
+  padding: 8px;
+  color: white;
+  border-radius: 6px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
